@@ -77,7 +77,7 @@ I enjoy building practical projects that solve real problems and help me learn e
 ## 🔗 Connect with Me
 - LinkedIn: [Ayush Tiwari](https://www.linkedin.com/in/ayush-tiwari-074298216/)
 - Email: [ayushtiwari7781@gmail.com](mailto:ayushtiwari7781@gmail.com)
-- GitHub: [AyushTiwariAcro](https://github.com/AyushTiwariAcro)
+- GitHub: [AyushTiwari080](https://github.com/AyushTiwari080)
 
 ---
 
