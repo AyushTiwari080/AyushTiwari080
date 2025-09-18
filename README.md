@@ -68,9 +68,8 @@ I enjoy building practical projects that solve real problems and help me learn e
 ---
 
 ## 📈 Contribution Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushTiwariAcro&theme=tokyonight" alt="Contribution graph" />
-</div>
+
+![Ayush's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AyushTiwari080&theme=radical)
 
 ---
 
