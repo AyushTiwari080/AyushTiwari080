@@ -50,11 +50,10 @@ I enjoy building practical projects that solve real problems and help me learn e
 
 | Project | Description | Tech |
 |---|---:|---|
-| **Vehicle Number Plate Detection** | Detects and crops vehicle number plates from images/frames; designed for OCR input. | OpenCV, Python |
-| **Fake News Detection** | NLP-based classifier to detect misinformation in news text. | Python, NLP, Scikit-learn |
-| **Book Review Platform** | Full stack web app to post and review books. | React, Node.js, MongoDB |
+| [**Vehicle Number Plate Detection**](https://github.com/AyushTiwari080/Vehicle-Number-Plate-Detection) | Detects and crops vehicle number plates from images/frames; designed for OCR input. | OpenCV, Python |
+| [**Fake News Detection**](https://github.com/AyushTiwari080/Fake-News-Detection) | NLP-based classifier to detect misinformation in news text. | Python, NLP, Scikit-learn |
+| [**Book Review Platform**](https://github.com/AyushTiwari080/Book-Review-Platform) | Full stack web app to post and review books. | React, Node.js, MongoDB |
 
-(Links to repositories — add them under each project for direct access.)
 
 ---
 
