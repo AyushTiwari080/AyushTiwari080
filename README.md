@@ -59,10 +59,11 @@ I enjoy building practical projects that solve real problems and help me learn e
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushTiwariAcro&show_icons=true&theme=tokyonight" alt="Ayush's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushTiwari080&show_icons=true&theme=tokyonight" alt="Ayush's GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushTiwariAcro&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushTiwari080&theme=tokyonight" alt="streak" />
 </div>
+
 
 ---
 
